@@ -46,14 +46,13 @@ Hello! I'm Prabhat Shinde, a passionate HPC Research enthusiast based in India. 
 ### Research Assistant
 **Institute of HPC Research**  
 *June 20XX - Present*
-- Conducting research on optimizing parallel algorithms for HPC systems.
-- Collaborating with interdisciplinary teams to solve complex computational problems.
-
+-...
+-...
 ### Software Engineer Intern
 **Tech Solutions Pvt. Ltd.**  
 *May 20XX - August 20XX*
-- Developed efficient algorithms for data processing tasks.
-- Contributed to the design and implementation of scalable software solutions.
+-...
+- ...
 
 ---
 
@@ -61,13 +60,12 @@ Hello! I'm Prabhat Shinde, a passionate HPC Research enthusiast based in India. 
 ### Master of Science in Computer Science
 **University Name**  
 *August 20XX - May 20XX*
-- Specialization in High-Performance Computing and Data Science.
+- ...
 
 ### Bachelor of Technology in Computer Engineering
 **College Name**  
 *August 20XX - May 20XX*
-- Achieved a GPA of 3.8/4.0
-
+- ..
 ---
 
 ## Projects
@@ -84,10 +82,3 @@ Hello! I'm Prabhat Shinde, a passionate HPC Research enthusiast based in India. 
 ## Certifications
 - **Certified Parallel Programming Specialist (CPPS)**
 - **Data Science Certificate from Coursera**
-
----
-
-## Contact Information
-- **Email:** example@example.com
-- **LinkedIn:** [Prabhat Shinde](https://www.linkedin.com/in/prabhat-shinde/)
-- **GitHub:** [prabhatshinde](https://github.com/prabhatshinde)
