@@ -1,7 +1,6 @@
-# My Profile
-
+# Hello! I'm Prabhat Shinde, a passionate HPC Research enthusiast based in India.
 ## 🌟 Introduction
-Hello! I'm Prabhat Shinde, a passionate HPC Research enthusiast based in India. I thrive on turning ideas into reality and love to explore the world of High-Performance Computing (HPC).
+ I thrive on turning ideas into reality and love to explore the world of High-Performance Computing (HPC).
 ## 🚀 Skills
 - **Programming Languages:** [List of Programming Languages]
 - **Technologies/Frameworks:** [List of Technologies/Frameworks]
@@ -57,16 +56,11 @@ Hello! I'm Prabhat Shinde, a passionate HPC Research enthusiast based in India. 
 ---
 
 ## Education
-### Master of Science in Computer Science
-**University Name**  
-*August 20XX - May 20XX*
+### Master of Science in Electronics Science
+**Savitribai Phule Pune University**  
+*August 2021 - May 2023*
 - ...
 
-### Bachelor of Technology in Computer Engineering
-**College Name**  
-*August 20XX - May 20XX*
-- ..
----
 
 ## Projects
 ### Parallelization of Image Processing Algorithms
