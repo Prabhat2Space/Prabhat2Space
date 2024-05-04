@@ -82,8 +82,5 @@
 - MIMO Technology and 5G Wireless Communication
 - Convergence of Explainable Artificial Intelligence and IoT in Smart Solutions
 
-## Language Skills
-- English: Fluent
-- German: Beginner
-- Hindi: Fluent
-- Marathi: Fluent
+## Speaks English German Marathi Hindi  
+
