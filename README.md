@@ -1,4 +1,4 @@
-# Prabhat.V. Shinde
+# Welcome to Prabhat.V. Shinde's Profile!
 
 ## Education
 - **Masters of Electronics Science**  
@@ -29,19 +29,17 @@
   - Experience with Vector tools like CANoe, CANape, Canalyer
   - Awareness of Autosar and automotive protocols
 
-## CSIR-National Chemical Laboratory Work
- *Duration*: June 2022 to December 2022  
+## R&D Experience
+### CSIR-National Chemical Laboratory, Pune
+- **Project**: LabVIEW based GUI for Hydrogen Cell  
+  *Duration*: June 2022 to December 2022  
+  *Supervisor*: Dr. Rajesh Kanawade  
+  *Division*: Physical and Materials Chemistry  
 
-## Project Description
-- **Project Name**: Designing of LabVIEW based GUI for Hydrogen Cell  
-- **Organization**: CSIR - National Chemical Laboratory, Pune  
-- **Supervisor**: Dr. Rajesh Kanawade  
-- **Division**: Physical and Materials Chemistry  
-
-## Work Details
+#### Project Details
 - **Role**: Co-Supervisor  
 - **Responsibilities**:  
-  - Designed LabVIEW based GUI for efficient monitoring and control of hydrogen cell  
+  - Designed LabVIEW based GUI for monitoring and control of hydrogen cell  
   - Collaborated with project team to meet objectives  
   - Contributed to GUI development and testing  
 
