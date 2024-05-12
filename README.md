@@ -46,11 +46,9 @@
 ## Masters Project
 - **LabVIEW based Accelerometer System using NI my RIO**
   - Developed and tested Tri-axis gravity acceleration
-  - Graphical User Interface created in LabVIEW
   
 - **LabVIEW based Temperature Monitoring Using NI my DAQ**
   - VI developed for interfacing of LM 35 Temperature sensor
-  - Graphical User Interface created in LabVIEW
   
 - **LabVIEW based Ultrasonic Sonar System using Arduino**
   - Developed and tested ultrasonic sensor systems for object detection
