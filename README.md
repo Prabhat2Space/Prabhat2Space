@@ -47,14 +47,13 @@
 - **LabVIEW based Accelerometer System using NI my RIO**
   - Developed and tested Tri-axis gravity acceleration
   
-- **LabVIEW based Temperature Monitoring Using NI my DAQ**
-  - VI developed for interfacing of LM 35 Temperature sensor
+- **LabVIEW based Temperature Monitoring Using NI my DAQ with ATmega328P microcontroller**
   
-- **LabVIEW based Ultrasonic Sonar System using Arduino**
+- **LabVIEW based Ultrasonic Sonar System with ATmega328P microcontroller**
   - Developed and tested ultrasonic sensor systems for object detection
   - Distance and speed measurement of objects in sonar range
   
-- **Sensor and Bluetooth Based Home Automation System using (LabVIEW VISA) Arduino**
+- **Sensor and Bluetooth Based Home Automation System using (LabVIEW VISA) ATmega328P microcontroller**
   - Designed and developed sensor-based system for privacy detection
   - Bluetooth-based home automation system for remote operation
 
