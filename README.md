@@ -2,9 +2,8 @@
 
 ## Education
 - **Masters of Electronics Science**  
-  Department of Electronics Science, Savitribai Phule Pune University  
-  *Year*: 2021-2023  
-
+  Department of Electronics Science, Savitribai Phule Pune University
+  
 ## Experience
 ### Aeron Systems Pvt. Ltd, Pune
 - **Position**: Jr Embedded Test Engineer  
