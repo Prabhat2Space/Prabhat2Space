@@ -1,4 +1,4 @@
-# Welcome to Prabhat V. Shinde's Profile!
+# Welcome to Prabhat Shinde's Profile! Space
 
 ## 🎓 Education
 - **Masters of Electronics Science**  
