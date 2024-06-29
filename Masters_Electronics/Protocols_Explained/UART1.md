@@ -1,7 +1,7 @@
 # UART: A Hardware Communication Protocol Understanding Universal Asynchronous Receiver/Transmitter
 ---
 
-## Abstract
+## About UART
 
 UART, or universal asynchronous receiver-transmitter, is one of the most used device-to-device communication protocols. 
 This article explains how to use UART as a hardware communication protocol by following the standard procedure.
