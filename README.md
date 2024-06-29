@@ -3,7 +3,7 @@
 ## 🎓 Education
 | Degree                     | Department of Electronics Science, Savitribai Phule Pune University          |
 |----------------------------|------------------------------------------------------------------------------|
-| Masters of Electronics Science | | Digital Signal Processing , Embedded Systems , ASIC ,FPGA ,ARM 
+| Masters of Electronics Science |  Digital Signal Processing , Embedded Systems , ASIC ,FPGA ,ARM 
 
 ## 💼 Experience
 | Company                                   | Position/Project                                           | Location |
