@@ -1,49 +1,51 @@
-# Welcome to Prabhat Shinde's Profile! Space
+# Welcome to Prabhat Shinde's Profile!
 
 ## 🎓 Education
-- **Masters of Electronics Science**  
-  *Department of Electronics Science, Savitribai Phule Pune University*
+| Degree                     | Department of Electronics Science, Savitribai Phule Pune University          |
+|----------------------------|------------------------------------------------------------------------------|
+| Masters of Electronics Science | |
 
 ## 💼 Experience
-
-### Aeron Systems Pvt. Ltd, Pune
-- **Position**: Jr Embedded Test Engineer  
-
-### Forvia Hella India Automotive Pvt. Ltd, Pune
-- **Project**: Electronics Power Steering  ASIL-D ISO-026262
-
-### CSIR-National Chemical Laboratory, Pune
-- **Project**: LabVIEW based GUI for Hydrogen Cell  
-  *Division*: Physical and Materials Chemistry  
+| Company                                   | Position/Project                                           | Location |
+|-------------------------------------------|------------------------------------------------------------|----------|
+| Aeron Systems Pvt. Ltd                    | Jr Embedded Test Engineer                                  | Pune     |
+| Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering ASIL-D ISO-026262               | Pune     |
+| CSIR-National Chemical Laboratory         | LabVIEW based GUI for Hydrogen Cell, Physical and Materials Chemistry Division | Pune     |
 
 ## 📚 Masters Projects
-1. **LabVIEW Based Accelerometer System Using NI myRIO**
-2. **LabVIEW Based Temperature Monitoring Using NI myDAQ with ATmega328P Microcontroller**
-3. **LabVIEW Based Ultrasonic Sonar System with ATmega328P Microcontroller**
-4. **Sensor and Bluetooth Based Home Automation System Using (LabVIEW VISA) ATmega328P Microcontroller**
+| Project                                                                                              |
+|------------------------------------------------------------------------------------------------------|
+| LabVIEW Based Accelerometer System Using NI myRIO                                                   |
+| LabVIEW Based Temperature Monitoring Using NI myDAQ with ATmega328P Microcontroller                  |
+| LabVIEW Based Ultrasonic Sonar System with ATmega328P Microcontroller                                |
+| Sensor and Bluetooth Based Home Automation System Using (LabVIEW VISA) ATmega328P Microcontroller    |
 
 ## 🎓 Certifications
-- **MATLAB Fundamentals** (MathWorks)
-- **Technology Management** (iRISE)
-- **Entrepreneurship Development Program** (Tata Capital)
-- **IEEE SWEBOK**
-- **High-Performance Computing (HPC)** (C-DAC Bengaluru)
-
+| Certification                       | Institution                |
+|-------------------------------------|----------------------------|
+| MATLAB Fundamentals                 | MathWorks                  |
+| Technology Management               | iRISE                      |
+| Entrepreneurship Development Program| Tata Capital               |
+| IEEE SWEBOK                         |                            |
+| High-Performance Computing (HPC)    | C-DAC Bengaluru            |
 
 ## 🏆 National Conferences
-- **MIMO Technology and 5G Wireless Communication**
-- **Convergence of Explainable Artificial Intelligence and IoT in Smart Solutions**
+| Conference                                                                           |
+|--------------------------------------------------------------------------------------|
+| MIMO Technology and 5G Wireless Communication                                        |
+| Convergence of Explainable Artificial Intelligence and IoT in Smart Solutions        |
 
 ## 🌐 Languages Spoken
-- **English**
-- **German**
-- **Marathi**
-- **Hindi**
+| Language |
+|----------|
+| English  |
+| German   |
+| Marathi  |
+| Hindi    |
 
 ---
 
 ## 🧑‍💼 Professional Summary
-
 Engineer with experience in ensuring the quality, functionality, and reliability of embedded systems. Proficient in adhering to stringent functionality, reliability, and safety standards. 
 
 As a tech enthusiast with advanced certification in High-Performance Computing (HPC) from C-DAC Bengaluru, I possess hands-on knowledge in:
