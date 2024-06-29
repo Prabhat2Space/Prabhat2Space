@@ -3,7 +3,7 @@
 ## 🎓 Education
 | Degree                     | Department of Electronics Science, Savitribai Phule Pune University          |
 |----------------------------|------------------------------------------------------------------------------|
-| Masters of Electronics Science | |
+| Masters of Electronics Science | | Digital Signal Processing , Embedded Systems , ASIC ,FPGA ,ARM 
 
 ## 💼 Experience
 | Company                                   | Position/Project                                           | Location |
@@ -26,7 +26,7 @@
 | MATLAB Fundamentals                 | MathWorks                  |
 | Technology Management               | iRISE                      |
 | Entrepreneurship Development Program| Tata Capital               |
-| IEEE SWEBOK                         |                            |
+| IEEE SWEBOK                         | C-DAC Bengaluru            |
 | High-Performance Computing (HPC)    | C-DAC Bengaluru            |
 
 ## 🏆 National Conferences
