@@ -1,17 +1,5 @@
 # Basics of UART Communication
 
-**Date**: March 17, 2024  
-**Author**: Anusha
-
-## Outline
-- Basics of UART Communication
-- Brief Note on Parallel and Serial Communication
-- Introduction to UART Communication
-- How UART Works?
-- Structure of Data Packet or Frame
-- Rules of UART
-- Advantages of UART
-- Disadvantages of UART
 
 ## Basics of UART Communication
 UART or Universal Asynchronous Receiver Transmitter is a dedicated hardware associated with serial communication. 
