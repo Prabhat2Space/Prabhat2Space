@@ -2,10 +2,9 @@
 
 ## Introduction
 
-The Council of Scientific and Industrial Research - National Chemical Laboratory (CSIR-NCL) Pune, 
-is a premier research institution in India, established in 1950. It is part of the CSIR network of laboratories, 
-dedicated to advanced scientific research and industrial innovation in the field of chemical sciences. Located in Pune, Maharashtra, 
-CSIR-NCL is renowned for its cutting-edge research in chemical and allied sciences, contributing significantly to the scientific and technological advancements of India.
+The [Council of Scientific and Industrial Research - National Chemical Laboratory (CSIR-NCL) Pune](https://www.ncl-india.org), is a premier research institution in India, established in 1950.
+It is part of the CSIR network of laboratories, dedicated to advanced scientific research and industrial innovation in the field of chemical sciences. Located in Pune, Maharashtra, CSIR-NCL 
+is renowned for its cutting-edge research in chemical and allied sciences, contributing significantly to the scientific and technological advancements of India.
 
 ### Key Focus Areas
 
@@ -17,8 +16,8 @@ CSIR-NCL is renowned for its cutting-edge research in chemical and allied scienc
 
 ### Achievements
 
-CSIR-NCL has made significant contributions to the field of chemical sciences, including numerous patents, publications, and technology transfers. 
-The laboratory collaborates with industries, academic institutions, and research organizations worldwide to foster innovation and scientific progress.
+CSIR-NCL has made significant contributions to the field of chemical sciences, including numerous patents, publications, and technology transfers. The laboratory collaborates with
+industries, academic institutions, and research organizations worldwide to foster innovation and scientific progress.
 
 ### Mission
 
