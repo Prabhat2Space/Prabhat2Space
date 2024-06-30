@@ -7,7 +7,9 @@
 #### Internship Summary:
 During my internship at HELLA, I focused on Requirement & Design Analysis, Compilation & Debugging for Single-Core and Multi-Core systems, 
 as well as comprehensive Software Testing covering SWT, SWIT, Component Testing, and Feature Review. 
-I also i have contributed to the Electronic Power Steering (ASIL-D) Live Project as an Embedded System Software Testing Engineer.
+for 
+Project :- the Electronic Power Steering (ASIL-D) Live Project 
+as an intern Embedded System Software Testing Engineer I got opportunity to work on it.
 
 #### Internship Responsibilities:
 Throughout my tenure, I engaged deeply in Requirement & Design Analysis to gain insights into project objectives and client specifications. 
