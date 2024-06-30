@@ -130,3 +130,106 @@ The BARANIDESIGN Wind Speed & Wind Direction MODBUS sensor offers several advant
 The Wind Speed & Wind Direction MODBUS sensor by BARANIDESIGN is a high-precision, reliable, and versatile device suitable for various applications requiring accurate wind measurements. 
 Its advanced features, durable construction, and ease of integration make it a valuable tool in meteorology, renewable energy, maritime navigation, agriculture, and more. 
 By providing real-time wind data through the robust MODBUS RTU communication protocol, the sensor enables informed decision-making and enhances the efficiency and safety of operations across different industries.
+
+
+# Understanding Report on Easy MODBUS Quick Guide by BARANI DESIGN
+
+## Introduction
+
+This document provides a comprehensive guide on configuring and using BARANI DESIGN's sensors with the MODBUS protocol.
+It covers the setup and usage of the MODBUS hardware and software starter kit, including the MeteoTemp (temperature and humidity sensor) and MeteoWind 2 (wind speed and direction sensor). 
+The guide includes hardware setup, MODBUS terminology, and detailed instructions on configuring and retrieving data from the sensors.
+
+## Components
+
+### MODBUS Hardware & Software Starter Kit
+1. **Easy MODBUS Viewer Software**: A tool for viewing MODBUS communication.
+2. **2-in-1 MeteoTemp Sensor**: A high-precision temperature and humidity sensor.
+3. **5m Cable with Connector & Leads**: For connecting sensors to the MODBUS network.
+4. **RS485-to-USB Converter**: For connecting the MODBUS network to a PC.
+5. **Helical MeteoShield-Professional**: Provides environmental protection for the sensor.
+6. **Outdoor Mount**: For installing the sensor outdoors.
+
+### Wind Speed & Wind Direction Starter Kit
+1. **Easy MODBUS Viewer Software**
+2. **2-in-1 MeteoWind 2 Modbus Anemometer with Wind Vane Sensor**
+3. **5m Cable with Connector & Leads**
+4. **RS485-to-USB Converter**
+5. **Outdoor Mount**
+
+## Hardware Setup
+
+### RS485-to-USB Converter Setup
+1. **Wire Connection Diagram**: Follow the provided diagram for wiring.
+2. **Connecting the Sensor**:
+   - Connect the communication wires (Green & Yellow) to the USB converter's screw terminal block.
+   - Connect the GND (ground) wire first, then the VCC (power) wire.
+   - Connect the bayonet connector on the other end of the supplied cable to the sensor.
+   - Plug the USB converter into the PC.
+
+### LED Indicators
+- The LED lights on the USB converter indicate communication signals.
+- If the LEDs are not blinking, ensure commands are being sent to the sensors and verify the setup.
+
+## MODBUS Terminology
+
+- **Modbus Slave**: Device responding to Master commands (e.g., MeteoTemp, MeteoWind).
+- **Modbus Master**: Controller sending data requests and commands.
+- **INPUT Register**: 16-bit memory space in a Slave from which data can be requested.
+- **Slave ID**: Address of a Slave device in a network, allowing up to 247 devices.
+- **Query Type**: Number assigned to request types in Modbus communication.
+- **Hi & Lo Registers**: Combine to form a 32-bit integer.
+- **Register Start Hi & Lo**: Address of the first register to read.
+- **Register Length Hi & Lo**: Number of successive registers to read.
+- **CRC**: Checksum for verifying message integrity.
+
+## Default Communication Settings
+
+- **MODBUS RTU**: 19200 Baud, 8 data bits, no parity, 1 stop bit (default Slave ID = 1).
+- **Holding Registers**: Contain settings.
+- **Input Registers**: Contain sensor data.
+
+## MODBUS Message Format
+
+### Number Formats
+- **Hexadecimal (Hex)**: Compact representation used in MODBUS.
+- **Decimal**: Standard numerical representation.
+- **Binary**: Base-2 numerical representation.
+
+### Request & Response Messages
+- **Request Message**: Includes Slave ID, Query Type, Register Start, Length, and CRC.
+- **Response Message**: Includes Slave ID, Query Type, Data Length, Data, and CRC.
+
+## Sensor Setup & Configuration
+
+### MeteoTemp Sensor Setup
+1. Connect the communication and power wires to the RS485-to-USB converter.
+2. Connect the bayonet connector to the sensor.
+3. Plug the USB converter into the PC.
+
+### MeteoWind Sensor Setup
+1. Follow similar steps as for the MeteoTemp sensor.
+2. Additional configurations for wind direction offset and sampling/averaging periods are provided.
+
+## Data Retrieval & Configuration Commands
+
+### Reading Communication Settings
+- Use specific MODBUS queries to read and write communication settings from holding registers.
+
+### MeteoTemp Data Registers
+- Retrieve measurements like Temperature, Dew Point, Pressure, and Humidity using defined input registers and query formats.
+
+### MeteoWind Data Registers
+- Retrieve measurements like Wind Speed, Wind Direction, Average Speed, and Maximum Wind Speed.
+
+### Calibrating Wind Direction
+- Calculate and set the wind direction offset using provided formulas and queries.
+
+### Adjusting Sampling/Averaging Period
+- Configure the sampling period for the MeteoWind sensor using holding register 10.
+
+## Conclusion
+
+This guide offers a step-by-step approach to setting up and using BARANI DESIGN's sensors with MODBUS. 
+By following the wiring diagrams, understanding MODBUS terminology, and using the provided commands, users can effectively configure and retrieve data from the MeteoTemp and MeteoWind sensors. 
+The document also includes resources for further reading and understanding of the MODBUS protocol.
