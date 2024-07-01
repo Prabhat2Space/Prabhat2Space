@@ -37,7 +37,7 @@ This customization allows for optimized performance, power efficiency, and size.
 - **Telecommunications:** ASICs are used in networking equipment for data processing and communication protocols.
 - **Medical Devices:** Custom ICs are used in medical implants and diagnostic equipment.
 
-### FPGA (Field-Programmable Gate Array)
+## FPGA (Field-Programmable Gate Array)
 
 ### Definition and Overview
 
