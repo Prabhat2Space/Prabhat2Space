@@ -1,4 +1,7 @@
-# ASIC (Application-Specific Integrated Circuit) and FPGA (Field-Programmable Gate Array):
+
+# ASIC (Application-Specific Integrated Circuit) 
+
+# FPGA (Field-Programmable Gate Array):
 
 ## Introduction
 
