@@ -1,4 +1,4 @@
-# Welcome to Prabhat Shinde's Profile!
+# Welcome to Prabhat Shinde's 
 
 ## 🎓 Education
 | Degree                     | Department of Electronics Science, Savitribai Phule Pune University          |
