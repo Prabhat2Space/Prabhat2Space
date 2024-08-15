@@ -5,7 +5,6 @@ ________________________________________________________________________________
 | Degree                         | Department of Electronics Science, Savitribai Phule Pune University          |
 |--------------------------------|------------------------------------------------------------------------------|
 | Masters of Electronics Science |  Digital Signal Processing , Embedded Systems , ASIC ,FPGA ,ARM              |
-|--------------------------------|------------------------------------------------------------------------------|
 
 ## 💼 Experience
 ______________________________________________________________________________________________________________________
@@ -15,7 +14,6 @@ ________________________________________________________________________________
 | Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering ASIL-D ISO-026262                | Pune     |
 | CSIR-National Chemical Laboratory         | LabVIEW based GUI for Hydrogen Cell, Physical and Materials | Pune     |
 |                                           |   Chemistry Division                                        |          |
-|-------------------------------------------|------------------------------------------------------------------------|
 
 
 ## 📚 C-DAC Projects
@@ -26,7 +24,7 @@ ________________________________________________________________________________
 | 2. Fourier Transform Conversion and Analysis Using TensorFlow                                           |
 | 3. Python-Based Fuel Efficiency Prediction Using TensorFlow                                             |
 | 4. WindMap : --> Analyzing and Visualizing Wind Patterns Using Python                                   |
-|---------------------------------------------------------------------------------------------------------|
+
 
 ## 📚 Masters Projects
 ___________________________________________________________________________________________________________
@@ -40,7 +38,7 @@ ________________________________________________________________________________
 |  6.  Design and Analysis of a Microstrip Rectangular Patch Antenna Using Ansoft HFSS Simulation Tool    |
 |  7.  PLC Based 2 way Trafic light Controlling                                                           |
 |  8.  PLC Based Automatic Bottle Filling plant System                                                    |
-|---------------------------------------------------------------------------------------------------------|
+
 
 
 ## 🎓 Certifications
@@ -52,7 +50,7 @@ ____________________________________________________________________
 | Entrepreneurship Development Program| Tata Capital               |
 | IEEE SWEBOK                         | C-DAC Bengaluru            |
 | High-Performance Computing (HPC)    | C-DAC Bengaluru            |
-|-------------------------------------|----------------------------|
+
 
 ## 🏆 National Conferences
 ________________________________________________________________________________________
@@ -60,7 +58,7 @@ ________________________________________________________________________________
 |--------------------------------------------------------------------------------------|
 | MIMO Technology and 5G Wireless Communication                                        |
 | Convergence of Explainable Artificial Intelligence and IoT in Smart Solutions        |
-|--------------------------------------------------------------------------------------|
+
 
 ## 🌐 Languages Spoken
 | Language |
