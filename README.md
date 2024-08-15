@@ -1,26 +1,50 @@
 # Welcome to Prabhat Shinde's Profile !
 
 ## 🎓 Education
-| Degree                     | Department of Electronics Science, Savitribai Phule Pune University          |
-|----------------------------|------------------------------------------------------------------------------|
-| Masters of Electronics Science |  Digital Signal Processing , Embedded Systems , ASIC ,FPGA ,ARM 
+_________________________________________________________________________________________________________________
+| Degree                         | Department of Electronics Science, Savitribai Phule Pune University          |
+|--------------------------------|------------------------------------------------------------------------------|
+| Masters of Electronics Science |  Digital Signal Processing , Embedded Systems , ASIC ,FPGA ,ARM              |
+|--------------------------------|------------------------------------------------------------------------------|
 
 ## 💼 Experience
-| Company                                   | Position/Project                                           | Location |
-|-------------------------------------------|------------------------------------------------------------|----------|
-| Aeron Systems Pvt. Ltd                    | Jr Embedded Test Engineer                                  | Pune     |
-| Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering ASIL-D ISO-026262               | Pune     |
-| CSIR-National Chemical Laboratory         | LabVIEW based GUI for Hydrogen Cell, Physical and Materials Chemistry Division | Pune     |
+______________________________________________________________________________________________________________________
+| Company                                   | Position/Project                                            | Location |
+|-------------------------------------------|-------------------------------------------------------------|----------|
+| Aeron Systems Pvt. Ltd                    | Jr Embedded Test Engineer                                   | Pune     |
+| Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering ASIL-D ISO-026262                | Pune     |
+| CSIR-National Chemical Laboratory         | LabVIEW based GUI for Hydrogen Cell, Physical and Materials | Pune     |
+|                                           |   Chemistry Division                                        |          |
+|-------------------------------------------|------------------------------------------------------------------------|
+
+
+## 📚 C-DAC Projects
+___________________________________________________________________________________________________________
+| Project                                                                                                 |
+|---------------------------------------------------------------------------------------------------------|
+| 1. Air Cast - LSTM-Based AQI Prediction using PyTorch                                                   |
+| 2. Fourier Transform Conversion and Analysis Using TensorFlow                                           |
+| 3. Python-Based Fuel Efficiency Prediction Using TensorFlow                                             |
+| 4. WindMap : --> Analyzing and Visualizing Wind Patterns Using Python                                   |
+|---------------------------------------------------------------------------------------------------------|
 
 ## 📚 Masters Projects
-| Project                                                                                              |
-|------------------------------------------------------------------------------------------------------|
-| LabVIEW Based Accelerometer System Using NI myRIO                                                   |
-| LabVIEW Based Temperature Monitoring Using NI myDAQ with ATmega328P Microcontroller                  |
-| LabVIEW Based Ultrasonic Sonar System with ATmega328P Microcontroller                                |
-| Sensor and Bluetooth Based Home Automation System Using (LabVIEW VISA) ATmega328P Microcontroller    |
+___________________________________________________________________________________________________________
+| Project                                                                                                 |
+|---------------------------------------------------------------------------------------------------------|
+|  1.  LabVIEW Based Accelerometer System Using NI myRIO                                                  |
+|  2.  LabVIEW Based Temperature Monitoring Using NI myDAQ with ATmega328P Microcontroller                |
+|  3.  LabVIEW Based Ultrasonic Sonar System with ATmega328P Microcontroller                              |
+|  4.  Sensor and Bluetooth Based Home Automation System Using (LabVIEW VISA) ATmega328P Microcontroller  |
+|  5.  PLC Based Automatic Bottle Filling plant System                                                    |
+|  6.  Design and Analysis of a Microstrip Rectangular Patch Antenna Using Ansoft HFSS Simulation Tool    |
+|  7.  PLC Based 2 way Trafic light Controlling                                                           |
+|  8.  PLC Based Automatic Bottle Filling plant System                                                    |
+|---------------------------------------------------------------------------------------------------------|
+
 
 ## 🎓 Certifications
+____________________________________________________________________
 | Certification                       | Institution                |
 |-------------------------------------|----------------------------|
 | MATLAB Fundamentals                 | MathWorks                  |
@@ -28,12 +52,15 @@
 | Entrepreneurship Development Program| Tata Capital               |
 | IEEE SWEBOK                         | C-DAC Bengaluru            |
 | High-Performance Computing (HPC)    | C-DAC Bengaluru            |
+|-------------------------------------|----------------------------|
 
 ## 🏆 National Conferences
+________________________________________________________________________________________
 | Conference                                                                           |
 |--------------------------------------------------------------------------------------|
 | MIMO Technology and 5G Wireless Communication                                        |
 | Convergence of Explainable Artificial Intelligence and IoT in Smart Solutions        |
+|--------------------------------------------------------------------------------------|
 
 ## 🌐 Languages Spoken
 | Language |
