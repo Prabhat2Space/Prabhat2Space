@@ -24,6 +24,9 @@ ________________________________________________________________________________
 | 2. Fourier Transform Conversion and Analysis Using TensorFlow                                           |
 | 3. Python-Based Fuel Efficiency Prediction Using TensorFlow                                             |
 | 4. WindMap : --> Analyzing and Visualizing Wind Patterns Using Python                                   |
+|  5. Analysis of Cost of Living by Country using RandomForest and SMOTE                                  |
+|  6. Predicting High-Pressure Compressor (HPC) Efficiency in Aero Engines                                |
+
 
 
 ## 📚 Masters Projects
