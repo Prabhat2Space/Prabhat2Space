@@ -12,8 +12,8 @@ ________________________________________________________________________________
 |-------------------------------------------|-------------------------------------------------------------|----------|
 | Aeron Systems Pvt. Ltd                    | Jr Embedded Test Engineer                                   | Pune     |
 | Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering ASIL-D ISO-026262                | Pune     |
-| CSIR-National Chemical Laboratory         | LabVIEW based GUI for Hydrogen Cell, Physical and Materials | Pune     |
-                                              Chemistry Division                                                  
+| CSIR-National Chemical Laboratory         | LabVIEW based GUI for Hydrogen Cell, Physical and Materials  Chemistry Division | Pune     |
+                                                                                               
 
 
 ## 📚 C-DAC Projects
