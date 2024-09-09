@@ -53,6 +53,7 @@ ____________________________________________________________________
 | Entrepreneurship Development Program| Tata Capital               |
 | IEEE SWEBOK                         | C-DAC Bengaluru            |
 | High-Performance Computing (HPC)    | C-DAC Bengaluru            |
+| AIML for GeoData Analysis           | ISRO IIRS                  |
 
 
 ## 🏆 Attended National Conferences
