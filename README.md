@@ -1,5 +1,7 @@
 # Welcome to Prabhat Shinde's Profile !
 
+*Now Associated with Skyroot Arospace as Software Quality Engineer*
+
 ## 🎓 Education
 _________________________________________________________________________________________________________________
 | Degree                         | Department of Electronics Science, Savitribai Phule Pune University          |
