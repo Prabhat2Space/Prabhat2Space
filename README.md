@@ -1,6 +1,6 @@
 # Welcome to Prabhat Shinde's Profile !
 
-*Now Associated with Skyroot Arospace as Software Quality Engineer*
+_Now Associated with Skyroot Arospace as Software Quality Engineer_
 
 ## 🎓 Education
 _________________________________________________________________________________________________________________
