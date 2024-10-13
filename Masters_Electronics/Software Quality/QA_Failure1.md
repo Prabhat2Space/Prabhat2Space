@@ -1,4 +1,4 @@
-modern-day software-related failures in aerospace and space exploration that share similarities with the historical events you mentioned. These incidents highlight ongoing challenges in software reliability, testing, and project management. 
+modern-day software-related failures in aerospace and space exploration  . These incidents highlight ongoing challenges in software reliability, testing, and project management. 
   
 ### 1. GPS III – Software Glitches (2020) 
   
