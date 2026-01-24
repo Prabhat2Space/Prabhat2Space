@@ -1,6 +1,6 @@
 # Welcome to Prabhat Shinde's Profile !
 
-_Now Associated with Skyroot Arospace as Software Quality Engineer_
+_Now Associated with Skyroot Arospace as Avionics Software Reliability Engineer, Ensuring Software Reliability for Mission Critical Scenario_
 
 ## 🎓 Education
 _________________________________________________________________________________________________________________
