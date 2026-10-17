@@ -1,5 +1,4 @@
-# SYSTEMS ENGINEERING DESIGN & CONCEPT DOCUMENT (UPDATED)
-## Imaging Payload System for a Fixed-Wing VTOL UAV
+# Imaging Payload System for a Fixed-Wing VTOL UAV
 **Document Status:** Concept Design Review (CoDR) Level — Updated with Edge AI Rationale, FPGA Trade Analysis, Detailed V&V Matrix, and Exhaustive Numerical Calculations.
 
 ---
