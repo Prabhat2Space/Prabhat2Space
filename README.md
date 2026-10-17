@@ -20,7 +20,7 @@ _Now associated with Skyroot Aerospace as Avionics Software Reliability Engineer
 | Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering (ASIL-D) — ISO-26262               | Pune     |
 | CSIR — National Chemical Laboratory       | LabVIEW-based GUI for Hydrogen Cell — Physical & Materials Chemistry Division | Pune     |
 
-### Skyroot Aerospace (detailed)
+### Skyroot Aerospace 
 Skyroot Aerospace — Full-time
 
 - Space Engineer II  
@@ -31,9 +31,6 @@ Skyroot Aerospace — Full-time
   - Sep 2024 - Present · 2 yrs 2 mos  
   - Max-Q Campus, Hyderabad, Telangana, India
 
-- How I joined
-  - LinkedIn helped me get this job helped me get this job
-
 - Domain & Areas
   - Works in Avionics Software Reliability Engineering Domain  
   - OBC, NGCS & FNC
@@ -43,7 +40,7 @@ Skyroot Aerospace — Full-time
   - Mission: Aagaman
 
   Key responsibilities and achievements:
-  - Ensured software reliability for Flight Software of Guidance & Control systems.  
+  - Ensured software reliability for Flight Software of Guidance Software & Control Software systems.  
   - Software-based validation of FPGA and C-based mission-critical Telecommand software.  
   - Performed post-flight data analysis to derive key insights after successful launch.  
   - Conducted data analysis to derive key launch insights.
