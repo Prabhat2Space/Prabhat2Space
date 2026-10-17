@@ -15,7 +15,7 @@ _Now associated with Skyroot Aerospace in area of Avionics Software Reliability 
 
 | Company                                   | Position / Project                                            | Location |
 |-------------------------------------------|---------------------------------------------------------------|----------|
-| Skyroot Aerospace                         | Space Engineer II at Avionics Software Reliability Engineer Division   | Hyderabad, Telangana, India |
+| Skyroot Aerospace                         | Space Engineer II at Avionics Software Reliability Engineering Division   | Hyderabad, Telangana, India |
 | Aeron Systems Pvt. Ltd                    | Jr Embedded Test Engineer                                     | Pune     |
 | Forvia Hella India Automotive Pvt. Ltd    | Electronics Power Steering (ASIL-D) — ISO-26262               | Pune     |
 | CSIR — National Chemical Laboratory       | LabVIEW-based GUI for Hydrogen Cell — Physical & Materials Chemistry Division | Pune     |
