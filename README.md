@@ -24,7 +24,7 @@ _Now associated with Skyroot Aerospace in area of Avionics Software Reliability 
 Skyroot Aerospace — Full-time
 
 - Space Engineer II  
-  - Sep 2026 - Present · 2 mos  
+  - Sep 2026 - Present ·
   - Hyderabad, Telangana, India · Hybrid
 
 - Avionics Software Reliability Engineer  
